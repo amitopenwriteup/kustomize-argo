@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://github.com/amitopenwriteup/kustomize-argo.git",
+  "drySha": "4c04e6f06570b8b482541b058d2e9aaed0dece08",
+  "commands": [
+    "kustomize build ./overlays/dev"
+  ]
+}
